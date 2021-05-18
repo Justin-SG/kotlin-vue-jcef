@@ -1,0 +1,6 @@
+[0518/204009.248:INFO:CONSOLE(9055)] "Download the Vue Devtools extension for a better development experience:
+https://github.com/vuejs/vue-devtools", source: https://vuejs.org/js/vue.js (9055)
+[0518/204018.672:INFO:CONSOLE(731)] "Content is now available offline!", source: https://vuejs.org/ (731)
+[0518/204027.638:INFO:CONSOLE(9055)] "Download the Vue Devtools extension for a better development experience:
+https://github.com/vuejs/vue-devtools", source: https://vuejs.org/js/vue.js (9055)
+[0518/205854.661:INFO:CONSOLE(24)] "[HMR] Waiting for update signal from WDS...", source: webpack-internal:///./node_modules/webpack/hot/log.js (24)
